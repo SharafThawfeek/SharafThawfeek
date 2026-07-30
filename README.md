@@ -31,7 +31,6 @@
 - 🎓 **Data Science undergraduate** at SLIIT (Sri Lanka Institute of Information Technology)
 - 🤖 Aspiring **AI Engineer** — building ML models & intelligent systems
 - 🔭 Working on projects in **AI, Machine Learning & Data Science**
-- 🌱 Currently leveling up in **Deep Learning, Neural Networks & MLOps**
 - 💬 Ask me about **Python, ML, SQL & data analysis**
 - ⚡ Fun fact: **I debug with print() and I'm not ashamed**
 
